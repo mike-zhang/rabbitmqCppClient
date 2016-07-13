@@ -1,6 +1,6 @@
 # rabbitmqCppClient
 
-简单包装rabbitmq-c库，实现c++调用rabbitmq。
+简单包装rabbitmq-c库，实现c++访问rabbitmq
 
 依赖：rabbitmq-c-0.5.2
 
